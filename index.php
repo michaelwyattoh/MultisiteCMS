@@ -43,7 +43,7 @@ function niceDate($d) {
         ?>
         </nav>
 <?php
-        
+     //DISPLAY THE CONTENT OF A CERTAIN PAGE THAT WILL BE PULLING FROM THE DB   
 	   if ($thisPage == "/$subDirectory$page" || $thisPage =="$page"){
 	   
 	   
