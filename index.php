@@ -47,4 +47,17 @@ function niceDate($d) {
 	   if ($thisPage == "/$subDirectory$page" || $thisPage =="$page"){
 	   
 	   
+	   } else {
+	   print <<<EOF
+	   
+	   <div class="page-title">Page Not Found</div>
+	   
+	   <div class="main">
+	   	<div class="content-body">
+			This Page could not be found! Please check the url and try again.
+		</div>
+	   
+	   </div>
+	   
+	   EOF;
 	   }
