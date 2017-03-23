@@ -1,11 +1,27 @@
 MultisiteCMS
 ============
 
-A Multisite CMS
-
-PROJECT DETAILS:
-This is a Simple CMS, all hosted into one database. This CMS will feature a login and subdirectory support and would allow people to install the application on there server. This CMS allows clients to have multiple sites using the same CMS. 
-
+User 
+  Register
+  Delete
+  Multi user 
+Manage
+  create a site
+  drag and drop options blocks
+  allow theme changes 
+  Web form options
+Services
+  Add a domain
+  Manage domains
+  Manage set
+Billing
+  Pay bill with PayPal
+  add another account
+  Suspend account if no payment
+Email
+    Add 
+    Delete 
+    Access
 
 
 
